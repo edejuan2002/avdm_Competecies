@@ -2,11 +2,11 @@
 
 This project consists on analyzing the ``Competències Bàsiques'' data set in depth, with the aim of understanding the educational features of todays catalan pupils. Thus, we divide the work into four different parts, and each one tries to look for one specific feature.
 
-The project relies on these open dataset repositories:\\
-Primary school: https://analisi.transparenciacatalunya.cat/d/rk5x-gny6\\
-Secondary school: https://analisi.transparenciacatalunya.cat/d/59vm-wwq7\\
-Investment: https://analisi.transparenciacatalunya.cat/d/8spq-9nx7\\
-Geography: https://www.icgc.cat/ca/Geoinformacio-i-mapes/Dades-i-productes/Geoinformacio-cartografica/Divisions-administratives
+The project relies on these open dataset repositories:
+* Primary school: https://analisi.transparenciacatalunya.cat/d/rk5x-gny6
+* Secondary school: https://analisi.transparenciacatalunya.cat/d/59vm-wwq7\\
+* Investment: https://analisi.transparenciacatalunya.cat/d/8spq-9nx7\\
+* Geography: https://www.icgc.cat/ca/Geoinformacio-i-mapes/Dades-i-productes/Geoinformacio-cartografica/Divisions-administratives
 
 ## Andreu
 
