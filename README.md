@@ -19,4 +19,4 @@ In the ``Ed_approach.ipynb'', we first show that studying private schools is rep
 
 Other jupyter notebooks are used to get introduced to plots and maps.
 
-##Judith
+## Judith
