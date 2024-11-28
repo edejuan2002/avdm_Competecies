@@ -1,4 +1,4 @@
-# AVDM Project: Competencies
+# AVDM Project: Competències Bàsiques
 
 This project consists on analyzing the ``Competències Bàsiques'' data set in depth, with the aim of understanding the educational features of todays catalan pupils. Thus, we divide the work into four different parts, and each one tries to look for one specific feature.
 
