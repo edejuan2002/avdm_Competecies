@@ -20,3 +20,4 @@ In the ``Ed_approach.ipynb'', we first show that studying private schools is rep
 Other jupyter notebooks are used to get introduced to plots and maps.
 
 ## Judith
+In "Cultura.ipynb" we try to obtain a relationship between the number of cultural events in Catalonia during the period of 2018-2023 
