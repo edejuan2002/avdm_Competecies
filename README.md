@@ -5,7 +5,7 @@ This project consists on analyzing the ``Competències Bàsiques'' data set in d
 The project relies on these open dataset repositories:
 * Primary school: https://analisi.transparenciacatalunya.cat/d/rk5x-gny6
 * Secondary school: [https://analisi.transparenciacatalunya.cat/d/59vm-wwq7\\]
-* Investment: https://analisi.transparenciacatalunya.cat/d/8spq-9nx7\\
+* Investment: [https://analisi.transparenciacatalunya.cat/d/8spq-9nx7\\]
 * Cultural events: https://analisi.transparenciacatalunya.cat/Cultura-oci/Agenda-cultural-de-Catalunya-per-localitzacions-/rhpv-yr4f
 * Geography: https://www.icgc.cat/ca/Geoinformacio-i-mapes/Dades-i-productes/Geoinformacio-cartografica/Divisions-administratives
 
