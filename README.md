@@ -20,4 +20,8 @@ In the ``Ed_approach.ipynb'', we first show that studying private schools is rep
 Other jupyter notebooks are used to get introduced to plots and maps.
 
 ## Judith
-In "Cultura.ipynb" we try to obtain a relationship between the number of cultural events in Catalonia during the period of 2018-2023 
+
+In "Cultura.ipynb" we try to obtain a relationship between the number of cultural events in Catalonia during the period of 2018-2023 and the results in "Competències Bàsiques". 
+To do so, we firstly represent, by type, the number of events held each year. Due to a lack of information between 2018-2020, we center our analysis in the gap 2021-2023. In search of a linear behaviour, we represented  mean grades for both 6th Primary School and 4t Seconday School tests results of some subjects with the number of cultural events of certain type. The criteria for the pairing was the apparent relation between the former and the latter; for instance, we matched "Book" type events with the results in Catalan and Spanish. In this line, we also made graphics with the proportion of students with good grades (above 75) in a subject and the proportion of cultural events of a particular type by region. Because in the analysis we do not obtain a conclusive linear fit nor a similar behaviour in the decayment, respectively,  we  concluded that cultural events and performance in Competències bàsiques are not correlated. 
+
+
