@@ -13,11 +13,12 @@ The project relies on these open dataset repositories:
 The code regarding this topic can be found in the folder Time evolution in the file "Time_evolution.ipynb" together with a folder with useful tools for the panda library from https://github.com/jvicens/analysis-and-visualization-of-big-data-course.git and a plot using Plotly library.
 
 Structure of the code in "Time_evolution.ipynb":
-For both, the final secondary and final primary school exams, the average grades of every year students have been analyzed obtaining the time evolution for every subject. This results in two plots: "sise.png" and "quart.png" where the years are grouped in four years blocks for minimizing the effects of an extreme fluctuation from the general trend.
 
-For the mathematics subject, where the decrease between secondary and primary school is huge, the complete time line has been plotted, getting the plot "matemmatiques.png".
+-For both, the final secondary and final primary school exams, the average grades of every year students have been analyzed obtaining the time evolution for every subject. This results in two plots: "sise.png" and "quart.png" where the years are grouped in four years blocks for minimizing the effects of an extreme fluctuation from the general trend.
 
-Finally the average differences between secondary school final exams and primary school final exams have been plotted in "diferencia.png" for every four years block by representing the relative difference between the two exams with respect to the final secondary school grades.
+-For the mathematics subject, where the decrease between secondary and primary school is huge, the complete time line has been plotted, getting the plot "matemmatiques.png".
+
+-Finally the average differences between secondary school final exams and primary school final exams have been plotted in "diferencia.png" for every four years block by representing the relative difference between the two exams with respect to the final secondary school grades.
 
 
 
