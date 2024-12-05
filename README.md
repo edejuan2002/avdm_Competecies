@@ -9,7 +9,7 @@ The project relies on these open dataset repositories:
 * Cultural events: https://analisi.transparenciacatalunya.cat/Cultura-oci/Agenda-cultural-de-Catalunya-per-localitzacions-/rhpv-yr4f
 * Geography: https://www.icgc.cat/ca/Geoinformacio-i-mapes/Dades-i-productes/Geoinformacio-cartografica/Divisions-administratives
 
-## Temporal evolution
+## Time evolution
 The code regarding this topic can be found in the folder Time evolution in the file "Time_evolution.ipynb" together with a folder with useful tools for the panda library from https://github.com/jvicens/analysis-and-visualization-of-big-data-course.git and a plot using Plotly library.
 
 Structure of the code in "Time_evolution.ipynb":
