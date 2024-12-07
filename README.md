@@ -16,7 +16,7 @@ Structure of the code in "Time_evolution.ipynb":
 
 -The average grades of every year students have been analyzed for the final secondary and primary school exams, obtaining the time evolution for every subject in both exams. This results in two plots: "sise.png" (primary school final exams) and "quart.png" (high school final exams) where the years are grouped in four years blocks for minimizing the effects of an extreme fluctuation from the general trend.
 
--For the mathematics subject, where the decrease between secondary and primary school is huge, the complete time line has been plotted for both primary and high school final exams, getting the plot "matemmatiques.png".
+-For the mathematics subject, where the decrease between secondary and primary school is huge, the complete time line has been plotted for both primary and high school final exams, getting the plot "matemmatiques.png". This same procedure has also been done for the english subject, getting the "angles.png".
 
 -Finally the average differences between secondary school final exams and primary school final exams have been plotted in "diferencia.png" for every four years block by representing the relative difference between the two exams with respect to the final secondary school grades.
 
