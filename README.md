@@ -25,7 +25,7 @@ Structure of the code in "Time_evolution.ipynb":
 
 ## Andrea
 
-## Eduardo
+## Investment-Grades correlation
 The question this part tries to solve is whether we can find any correlation between the educational attainment of private schools and the investment per pupil.
 
 In the ``Ed_approach.ipynb'', we first show that studying private schools is representative of a significant proportion of catalan pupils. Then we show that there is no correlation between investment per pupil and educational attainment in the private schools.
