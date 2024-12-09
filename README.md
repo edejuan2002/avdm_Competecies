@@ -41,4 +41,6 @@ In this line, we also made graphics with the proportion of students with good gr
 
 Because in the analyses we did not obtain a conclusive linear fit nor a similar behaviour in the decayment, respectively,  we  concluded that cultural events and performance in Competències bàsiques are not correlated. 
 
+## Acknowledgements 
 
+This codes and materials have been created and developed by Eduardo Dejuán Bitria (), Andrea Cera Palatsi (), Andreu Rocamora Martorell () and Judith López Zancajo (). 
