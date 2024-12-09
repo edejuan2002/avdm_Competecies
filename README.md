@@ -1,6 +1,6 @@
 # AVDM Project: Competències Bàsiques
 
-This project consists on analyzing the "Competències Bàsiques" data set in depth, with the aim of understanding the educational features of todays catalan pupils by studying the results of the different years final primary school and secondary school exams, also known as "Competències Bàsiques". Thus, we divide the work into four different parts, depicting four specific features of the chosen data set: the grades time evolution, the relation of every single student grades for different subjects, the relation between grades and finantial investment and the effects of promoting cultural events in the students results.
+This project consists on analyzing the "Competències Bàsiques" data set in depth, with the aim of understanding the educational features of todays catalan pupils by studying the results of the different years final primary school and secondary school exams, also known as "Competències Bàsiques". Thus, we divide the work into four different parts, that analyze in detail four specific features of the chosen data set: the grades time evolution, the relation of every single student grades for different subjects, the relation between grades and finantial investment and the effects of promoting cultural events in the students results.
 
 The project relies on these open dataset repositories:
 * Primary school: https://analisi.transparenciacatalunya.cat/d/rk5x-gny6
