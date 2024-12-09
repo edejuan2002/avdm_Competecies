@@ -23,7 +23,14 @@ Structure of the code in "Time_evolution.ipynb":
 
 
 
-## Andrea
+## Subject Correlation
+The code in the notebook 'subject_correlation.ipynb' is focused in trying to analize if there is a unique intelligence or if students present special talents and if talent in a subject can be related with talent in another. The notebook is divided in the following structure:
+
+-Data Obtetention: Using an API, specified in the code.
+-Data handeling: Selection of the columns needed, dropping NaN values, merging rows that come from the same student and creating new columns needed for the analysis. Selection of three samples from the datasets that will represent bad, average and good students.
+-Correlation Matrix: Code to create plots that using heatmaps show the correlation for all dataset in the marks of different subjects. Doesn't appear in the paper.
+-Boxplots: Code to create the same boxplots that appear in the paper with all the necessary steps. They show the disperssion in the marks of different subjects for the three samples specified before.
+-Radar plots: Code to create the same radar plots that appear in the paper. They show students who have specialized profiles or outsinding talents in one subject. I have added an extra radar plot for the sample of good students even though it doesn't appear in the paper.
 
 ## Investment-Grades correlation
 The question this part tries to solve is whether we can find any correlation between the educational attainment of private schools and the investment per pupil.
