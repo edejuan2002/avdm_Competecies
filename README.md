@@ -43,4 +43,4 @@ Because in the analyses we did not obtain a conclusive linear fit nor a similar 
 
 ## Acknowledgements 
 
-This codes and materials have been created and developed by the collaborators Eduardo Dejuán Bitria (edejuan2002), Andrea Cera Palatsi (), Andreu Rocamora Martorell () and Judith López Zancajo (Jud0_0). 
+This codes and materials have been created and developed by the collaborators Eduardo Dejuán Bitria (edejuan2002), Andreu Rocamora Martorell (AndreuRocamora), Andrea Cera Palatsi () and Judith López Zancajo (Jud0_0). 
